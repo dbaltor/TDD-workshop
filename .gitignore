@@ -1,0 +1,13 @@
+**/.DS_Store
+*.swp
+
+# IntelliJ files
+**/*.iml
+**/.idea/
+
+# VS
+**/.vs/
+**/.vscode/
+
+#SDKMAN
+**/.sdkmanrc
